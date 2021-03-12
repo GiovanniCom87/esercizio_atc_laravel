@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "department": "sviluppo Web",
+    "created_at": "2021-03-11 19:08:30"
+  },
+  {
+    "id": 2,
+    "department": "design",
+    "created_at": "2021-03-11 19:08:30"
+  },
+  {
+    "id": 3,
+    "department": "marketing",
+    "created_at": "2021-03-11 19:08:30"
+  },
+  {
+    "id": 4,
+    "department": "branding",
+    "created_at": "2021-03-11 19:08:30"
+  }
+]
