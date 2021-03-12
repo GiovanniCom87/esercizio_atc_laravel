@@ -38,9 +38,7 @@ class PublicController extends Controller
         ->get();
 
         $resources = $resourcesDB->groupBy('id');
-
-        dump($resources);
-        
+      
 
         return view('filter', compact('resources', 'from', 'to'));
     }
